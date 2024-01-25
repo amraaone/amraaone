@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amra</h1>
 <h3 align="center">Full-Stack Engineer | Trader | Passion for Project Management</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amraaone&label=Profile%20views&color=0e75b6&style=flat" alt="amraaone" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amraaone" alt="amraaone" /></a> </p>
 
 - 🔭 I’m currently working on [UPWARD-Engine](https://www.upward.jp/)
